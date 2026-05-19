@@ -12,33 +12,32 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently working on:
+- Currently working on:
   - Career Diagnostic System (NLP + NER + Rule-Based Scoring)
   - Mini Photoshop (Image Processing Final Project)
 
-- 🌱 Currently learning:
+- Currently learning:
   - AI Engineering (Coding Camp 2026 by DBS Foundation)
-  - Deep Learning & Machine Learning fundamentals
 
-- 💼 Previous experience:
+- Previous experience:
   - Backend Developer — Library Booking App (Semester 3 Project)
   - Backend Developer — Expert System for Thesis Topic Recommendation
   - Backend Developer — PAITIK (Islamic Learning Platform)
 
-- 🎓 Education:
+- Education:
   - D4 Informatics Engineering, Politeknik Negeri Jakarta (Semester 4)
 
-- 💬 Ask me about:
+- Ask me about:
   - Backend Development, Python, AI/ML basics
 
-- 📫 Reach me at:
+- Reach me at:
   - **mrizkisyah27@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
@@ -52,7 +51,7 @@
 
 ---
 
-## 📌 Highlighted Projects
+## Highlighted Projects
 
 - **Career Diagnostic System**  
   NLP-based system using NER for CV parsing + gap analysis + rule-based scoring.
@@ -65,11 +64,3 @@
 
 - **PAITIK**  
   Backend for Islamic learning platform (Semester 1 Project).
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrizkisyahp&show_icons=true&theme=tokyonight"/>
-</p>
