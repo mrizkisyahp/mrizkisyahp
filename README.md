@@ -9,5 +9,3 @@
 - Smart Maggot System
 - Mini Photoshop
 
-## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrizkisyahp&show_icons=true)
